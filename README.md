@@ -1,0 +1,2 @@
+# kicad-projects
+KiCad Projects
