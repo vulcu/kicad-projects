@@ -8,6 +8,10 @@
 		(title "Passive Balanced Audio Isolator")
 		(date "2024-04-22")
 		(rev "A0")
+		(company "©2024 Winry Litwa-Vulcu")
+		(comment 1 "Drawn By: Winry Litwa-Vulcu")
+		(comment 2 "Designed By: Winry Litwa-Vulcu")
+		(comment 4 "github.com/vulcu")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
@@ -3301,7 +3305,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f40")
+			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f41")
 		)
 		(instances
 			(project "isolation-transformer"
@@ -3923,10 +3927,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "ba4dcb81-7de3-4220-b1ab-fa8a4eb53a7c")
+			(uuid "ba4dcb81-7de3-4220-b1ab-fa8a4eb53a7d")
 		)
 		(pin "2"
-			(uuid "fcf2b779-d783-4003-bac9-727bd510898e")
+			(uuid "fcf2b779-d783-4003-bac9-727bd510898f")
 		)
 		(instances
 			(project "isolation-transformer"
@@ -4125,7 +4129,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f40")
+			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f42")
 		)
 		(instances
 			(project "isolation-transformer"
@@ -4257,7 +4261,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f40")
+			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f43")
 		)
 		(instances
 			(project "isolation-transformer"
@@ -4322,7 +4326,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f40")
+			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f44")
 		)
 		(instances
 			(project "isolation-transformer"
@@ -4611,7 +4615,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "65d924ff-44b3-4f4d-a948-f90c1112d297")
+			(uuid "65d924ff-44b3-4f4d-a948-f90c1112d298")
 		)
 		(instances
 			(project "isolation-transformer"
@@ -4678,7 +4682,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "65d924ff-44b3-4f4d-a948-f90c1112d297")
+			(uuid "65d924ff-44b3-4f4d-a948-f90c1112d299")
 		)
 		(instances
 			(project "isolation-transformer"
@@ -5011,7 +5015,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f40")
+			(uuid "f01eae7e-9b63-4e87-a473-ce5949e48f45")
 		)
 		(instances
 			(project "isolation-transformer"
@@ -5078,7 +5082,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "65d924ff-44b3-4f4d-a948-f90c1112d297")
+			(uuid "65d924ff-44b3-4f4d-a948-f90c1112d29a")
 		)
 		(instances
 			(project "isolation-transformer"
